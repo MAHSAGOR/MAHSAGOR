@@ -27,4 +27,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mahsagor&show_icons=true&locale=en" alt="mahsagor" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mahsagor&" alt="mahsagor" /></p>
-<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=4276994" style='border:none;'></iframe>
